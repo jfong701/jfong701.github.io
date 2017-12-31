@@ -1,0 +1,57 @@
+a:link {
+	text-decoration: none;
+}
+
+.two-col-table {
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+#header-tr {
+	background:#607D8B;
+}
+
+.header-h1 {
+	font-family: Arial,sans-serif;
+	font-weight: 100;
+	color: white;
+}
+
+.header-p {
+	font-family: Arial,sans-serif;
+	color: white;
+}
+
+.header-a {
+	font-family:Arial;
+	font-weight:bold;
+	color: white;
+}
+
+.header-a:hover {
+	color: #CFD8DC;
+}
+
+.header-ul {
+	list-style-type:square;
+	color: white;
+}
+
+#body-tr {
+	color: #212121;
+}
+
+#profile-pic {
+	width:100%;
+}
+
+#head-col-one {
+	width:20%;
+}
+
+#head-col-two {
+	width:80%;
+	padding:10px;
+}
