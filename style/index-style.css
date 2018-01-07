@@ -18,19 +18,18 @@ body {
 }
 
 .header-h1 {
-	font-family: Arial,sans-serif;
-	font-weight: 100;
+	font-family: 'Roboto',Arial,sans-serif;
+	font-weight: 300;
 	color: white;
 }
 
 .header-p {
-	font-family: Arial,sans-serif;
+	font-family: 'Roboto',Arial,sans-serif;
 	color: white;
 }
 
 .header-a {
-	font-family: Arial;
-	font-weight: bold;
+	font-family: 'Roboto',Arial,sans-serif;
 	color: white;
 }
 
@@ -69,7 +68,7 @@ body {
 
 .section {
 	background-color: #607D8B;
-	font-family: Arial;
+	font-family: 'Roboto',Arial,sans-serif;
 	color: #212121;
 	padding-left: 5px;
 	padding-right: 5px;
