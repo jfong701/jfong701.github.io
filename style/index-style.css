@@ -1,5 +1,5 @@
 body {
-	background-color: #455A64;
+	background-color: #fff;
 }
 
 .header-a:link {
@@ -14,32 +14,32 @@ body {
 }
 
 #header-tr {
-	background: #607D8B;
+	background-color: #4CAF50;
 }
 
 .header-h1 {
 	font-family: 'Roboto',Arial,sans-serif;
 	font-weight: 300;
-	color: white;
+	color: #fff;
 }
 
 .header-p {
 	font-family: 'Roboto',Arial,sans-serif;
-	color: white;
+	color: #fff;
 }
 
 .header-a {
 	font-family: 'Roboto',Arial,sans-serif;
-	color: white;
+	color: #fff;
 }
 
 .header-a:hover {
-	color: #CFD8DC;
+	color: #8BC34A;
 }
 
 .header-ul {
 	list-style-type: square;
-	color: white;
+	color: #fff;
 }
 
 #body-tr {
@@ -67,11 +67,18 @@ body {
 }
 
 .section {
-	background-color: #607D8B;
+	background-color: #C8E6C9;
 	font-family: 'Roboto',Arial,sans-serif;
 	color: #212121;
-	padding-left: 5px;
-	padding-right: 5px;
+	padding-top: 1px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .section-entry {
@@ -80,11 +87,11 @@ body {
 	padding-bottom: 1px;
 	padding-left: 5px;
 	padding-right: 1px;
-	background-color:#CFD8DC;
+	background-color: #fff;
 }
 
 .section-header {
-	color: white;
+	color: #212121;
 	font-weight: 200;
 }
 
@@ -97,5 +104,5 @@ body {
 }
 
 .section-entry-title-link:hover {
-	color: #536DFE;
+	color: #8BC34A;
 }
