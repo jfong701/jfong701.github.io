@@ -93,12 +93,14 @@ body {
 	font-weight: 200;
 }
 
-.section-entry-title {
-	font-weight: 400;
-}
-
 .section-entry-title-link {
 	color: #212121;
+	display: inline-block;
+	font-size: 1.17em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0;
+	margin-right: 0;
 }
 
 .section-entry-title-link:hover {
