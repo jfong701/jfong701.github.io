@@ -215,33 +215,38 @@ body {
 	/* border: 1px solid #3a9126; */
 	/* border: 1px solid #e8c128; */
 	/* border: 1px solid #716848; */
-	border: 1px solid #73b677;
+	/* border: 1px solid #73b677; */
+	border: 1px solid #558916;
 	/* color: #3a9126; */
 	/* color: #e8c128; */
 	/* color: #716848; */
-	color: #73b677;
+	/* color: #73b677; */
+	color: #558916;
 }
 
 .action-link.team:hover {
 	/* background-color: #3a9126; */
 	/* background-color: #e8c128; */
-	background-color: #716848;
+	background-color: #73b677;
+	background-color: #558916;
 	color: #fff;
 }
 
 .action-link.personal {
 	/* border: 1px solid #263a91; */
 	/* border: 1px solid #33d54e; */
-	border: 1px solid #716848;
+	border: 1px solid #005d80;
 	/* color: #263a91; */
-	color: #33d54e;
-	color: #716848;
+	/* color: #33d54e; */
+	/* color: #716848; */
+	color: #005d80;
 }
 
 .action-link.personal:hover {
 	/* background-color: #263a91; */
 	/* background-color: #33d54e; */
-	background-color: #716848;
+	/* background-color: #716848; */
+	background-color: #005d80;
 	color: #fff;
 }
 
