@@ -101,7 +101,9 @@ body {
 .section-header {
 	margin-block-start: 0;
 	padding-block-start: 0.67em;
-	/* text-align: center; */
+	text-align: center;
+	padding-top: 0;
+	padding-bottom: 0.25em;
 	margin-bottom: 1px;
 }
 
